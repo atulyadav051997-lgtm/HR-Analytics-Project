@@ -74,9 +74,14 @@ HR-Analytics-Project/
 - **Page 1 – Overview:** KPI cards, Active Employees by Age Group & Marital Status, Employee Job Satisfaction, Avg Monthly Income vs Attrition by Years at Company
 - **Page 2 – Attrition Analysis:** Attrition by Job Role, Department, Distance, Monthly Income, Working Years, and Education Field
 
+![Power BI Dashboard 1](Power%20Bi%20Dashboard%201.png)
+![Power BI Dashboard 2](Power%20Bi%20Dashboard%202.png)
+
 ### Tableau Dashboard
 - Single-page comprehensive dashboard with Gender, Department, and Attrition filters
 - Charts: Attrition by Department, Attrition Rate vs Monthly Income, Business Travel, Avg Hourly Rate by Job Role, Performance Rating, Salary Hike by Education Field
+
+![Tableau Dashboard](Tableau%20Dashboard.png)
 
 ### Excel Dashboard
 - KPI cards with key metrics
@@ -84,6 +89,8 @@ HR-Analytics-Project/
 - Job Role vs Work Life Balance table
 - Attrition Rate vs Year Since Last Promotion
 - Attrition by Travel Distance and Monthly Income
+
+![Excel Dashboard](Excel%20Dashboard.png)
 
 ---
 
